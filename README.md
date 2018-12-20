@@ -1,5 +1,3 @@
-# Python-Spider
+# BugbountyTip
 
-hello 
 
-this is a test.
