@@ -1,10 +1,8 @@
-## two characters
+## two characters 😏
+
 `
 ㍳
-`
-`
 ㏃
-`
 ㏄
 ㏅
 ㎝
@@ -98,7 +96,8 @@
 ⅺ
 `
 
-## three characters
+## three characters 😏
+
 `
 ㍴
 ㎈
@@ -129,7 +128,8 @@
 ⅻ
 `
 
-## four characters
+## four characters 😏
+
 `
 ㎉
 Ⅷ
