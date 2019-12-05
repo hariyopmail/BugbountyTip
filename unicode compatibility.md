@@ -1,7 +1,10 @@
 ## two characters
 `
 ㍳
+`
+`
 ㏃
+`
 ㏄
 ㏅
 ㎝
